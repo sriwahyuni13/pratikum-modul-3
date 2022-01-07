@@ -1,0 +1,12 @@
+/bin/sh
+basedir= $( dirname " $( echo " $0 "  | sed -e ' s,\\,/,g ' ) " )
+
+Kasus  ` uname `  di
+    * CYGWIN * | * MINGW * | * MSYS * ) basedir= ` cygpath -w " $basedir " ` ;;
+esac
+
+if [ -x  " $basedir /simpul " ] ;  kemudian
+  exec  " $basedir /node "   " $basedir /../nodemon/bin/nodemon.js "  " $@ "
+kalau tidak 
+  exec node   " $basedir /../nodemon/bin/nodemon.js "  " $@ "
+fi

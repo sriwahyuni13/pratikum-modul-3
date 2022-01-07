@@ -1,0 +1,466 @@
+{
+    "nama" : " crud-api " ,
+    "lockfileVersion" : 2 ,
+    "membutuhkan"  
+    :  
+    "paket"   
+     
+        "ketergantungan" : {
+          "dotenv" : " ^10.0.0 " ,
+          "ekspres" : " ^4.17.2 " ,
+          "harperive" : " ^2.0.1 " ,
+          "simpul" : " ^2.0.15 "
+        }
+      },
+      "node_modules/@sindresorhus/is" : {
+        "versi" : " 0.14.0 " ,
+        "selesai" : " https://registry.npmjs.org/@sindresorhus/is/-/is-0.14.0.tgz " ,
+        "integritas" : " sha512-9NET910DNaIPngYnLLPeg+Ogzqsi9uM4mSboU5y6p8S5DzMTVEsJZrawi+BoDNUVBa2DhJqQYUFvMDfgU062LQ== " ,
+        "mesin" : {
+          "simpul" : " >=6 "
+        }
+      },
+      "node_modules/@szmarczak/http-timer" : {
+        "versi" : " 1.1.2 " ,
+        "diselesaikan" : " https://registry.npmjs.org/@szmarczak/http-timer/-/http-timer-1.1.2.tgz " ,
+        "integritas" : " sha512-XIB2XbzHTN6ieIjfIMV9hlVcfPU26s2vafYWQcZHWXHOxiaRZYEDKEwdl129Zyg50+foYV2jCgtrqSA6qNuNSA== " ,
+        "ketergantungan" : {
+          "defer-to-connect" : " ^1.0.1 "
+        },
+        "mesin" : {
+          "simpul" : " >=6 "
+        }
+      },
+      "simpul_modul/singkatan" : {
+        "versi" : " 1.1.1 " ,
+        "diselesaikan" : " https://registry.npmjs.org/abbrev/-/abbrev-1.1.1.tgz " ,
+        "integritas" : " sha512-nne9/IiQ/hzIhY6pdDnbBtz7DjPTKrY00P/zvPSm5pOFkl6xuGrGnXn/VtTNNfNtAfZ9/1RtehkszU9qcTii0Q== "
+      },
+      "node_modules/accepts" : {
+        "versi" : " 1.3.7 " ,
+        "diselesaikan" : " https://registry.npmjs.org/accepts/-/accepts-1.3.7.tgz " ,
+        "integritas" : " sha512-Il80Qs2WjYlJIBNzNkK6KYqlVMTbZLXgHx2oT0pU/fjRHyEp+PEfEPY0R3WCwAGVOtauxh1hOxNgIf5bv7dQpA== " ,
+        "ketergantungan" : {
+          "mime-types" : " ~2.1.24 " ,
+          "negosiator" : " 0.6.2 "
+        },
+        "mesin" : {
+          "simpul" : " >= 0,6 "
+        }
+      },
+      "node_modules/ajv" : {
+        "versi" : " 6.12.6 " ,
+        "diselesaikan" : " https://registry.npmjs.org/ajv/-/ajv-6.12.6.tgz " ,
+        "integritas" : " sha512-j3fVLgvTo527anyYyJOGTYJbG+vnnQYvE0m5mmkc1TK+nxAppkCLMIL0aZ4dblVCNoGShhm+kzE4ZUykBoMg4g== " ,
+        "ketergantungan" : {
+          "fast-deep-equal" : " ^3.1.1 " ,
+          "fast-json-stable-stringify" : " ^2.0.0 " ,
+          "json-schema-traverse" : " ^0.4.1 " ,
+          "uri-js" : " ^4.2.2 "
+        },
+        "dana" : {
+          "ketik" : " github " ,
+          "url" : " https://github.com/sponsors/epoberezkin "
+        }
+      },
+      "node_modules/ansi-align" : {
+        "versi" : " 3.0.1 " ,
+        "diselesaikan" : " https://registry.npmjs.org/ansi-align/-/ansi-align-3.0.1.tgz " ,
+        "integritas" : " sha512-IOfwwBF5iczOjp/WeY4YxyjqAFMQoZufdQWDd19SEExbVLNXqvpzSJ/M7Za4/sCPmQ0+GRquoA7bGcINcxew6w== " ,
+        "ketergantungan" : {
+          "lebar-string" : " ^4.1.0 "
+        }
+      },
+      "node_modules/ansi-regex" : {
+        "versi" : " 5.0.1 " ,
+        "diselesaikan" : " https://registry.npmjs.org/ansi-regex/-/ansi-regex-5.0.1.tgz " ,
+        "integritas" : " sha512-quJQXlTSUGL2LH9SUXo8VwsY4soanhgo6LNSm84E1LBcE8s3O0wpdiRzyR9z/ZZJMlMWv37qOOb9pdJlMUEKFQ== " ,
+        "mesin" : {
+          "simpul" : " >=8 "
+        }
+      },
+      "node_modules/ansi-styles" : {
+        "versi" : " 4.3.0 " ,
+        "diselesaikan" : " https://registry.npmjs.org/ansi-styles/-/ansi-styles-4.3.0.tgz " ,
+        "integritas" : " sha512-zbB9rCJAT1rbjiVDb2hqKFHNYLxgtk8NURxZ3IZwD3F6NtxbXZQCnnSi1Lkx+IDohdPlFp222wVALIheZJQSEg== " ,
+        "ketergantungan" : {
+          "konversi warna" : " ^2.0.1 "
+        },
+        "mesin" : {
+          "simpul" : " >=8 "
+        },
+        "dana" : {
+          "url" : " https://github.com/chalk/ansi-styles?sponsor=1 "
+        }
+      },
+      "node_modules/anymatch" : {
+        "versi" : " 3.1.2 " ,
+        "diselesaikan" : " https://registry.npmjs.org/anymatch/-/anymatch-3.1.2.tgz " ,
+        "integritas" : " sha512-P43ePfOAIupkguHUycrc4qJ9kz8ZiuOUijaETwX7THt0Y/GNK7v0aa8rY816xWjZ7rJdA5XdMcpVFTKMq+RvWg== " ,
+        "ketergantungan" : {
+          "normalisasi-jalur" : " ^3.0.0 " ,
+          "picomatch" : " ^2.0.4 "
+        },
+        "mesin" : {
+          "simpul" : " >= 8 "
+        }
+      },
+      "node_modules/array-flatten" : {
+        "versi" : " 1.1.1 " ,
+        "diselesaikan" : " https://registry.npmjs.org/array-flatten/-/array-flatten-1.1.1.tgz " ,
+        "integritas" : " sha1-ml9pkFGx5wczKPKgCJaLZOopVdI= "
+      },
+      "node_modules/asn1" : {
+        "versi" : " 0.2.6 " ,
+        "diselesaikan" : " https://registry.npmjs.org/asn1/-/asn1-0.2.6.tgz " ,
+        "integritas" : " sha512-ix/FxPn0MDjeyJ7i/yoHGFt/EX6LyNbxSEhPPXODPL+KB0VPk86UYfL0lMdy+KCnv+fmvIzySwaK5COwqVbWTQ== " ,
+        "ketergantungan" : {
+          "safer-buffer" : " ~2.1.0 "
+        }
+      },
+      "node_modules/assert-plus" : {
+        "versi" : " 1.0.0 " ,
+        "diselesaikan" : " https://registry.npmjs.org/assert-plus/-/assert-plus-1.0.0.tgz " ,
+        "integritas" : " sha1-8S4PPF13sLHN2RRpQuTpbB5N1SU= " ,
+        "mesin" : {
+          "simpul" : " >=0.8 "
+        }
+      },
+      "node_modules/asynckit" : {
+        "versi" : " 0.4.0 " ,
+        "diselesaikan" : " https://registry.npmjs.org/asynckit/-/asynckit-0.4.0.tgz " ,
+        "integritas" : " sha1-x57Zf380y48robyXkLzDZkdLS3k= "
+      },
+      "node_modules/aws-sign2" : {
+        "versi" : " 0.7.0 " ,
+        "diselesaikan" : " https://registry.npmjs.org/aws-sign2/-/aws-sign2-0.7.0.tgz " ,
+        "integritas" : " sha1-tG6JCTSpWR8tL2+G1+ap8bP+dqg= " ,
+        "mesin" : {
+          "simpul" : " * "
+        }
+      },
+      "node_modules/aws4" : {
+        "versi" : " 1.11.0 " ,
+        "diselesaikan" : " https://registry.npmjs.org/aws4/-/aws4-1.11.0.tgz " ,
+        "integritas" : " sha512-xh1Rl34h6Fi1DC2WWKfxUTVqRsNnr6LsKz2+hfwDxQJWmrx8+c7ylaqBMcHfl1U1r2dsifOvKX3LQuLNZ+XSvA== "
+      },
+      "node_modules/balanced-match" : {
+        "versi" : " 1.0.2 " ,
+        "diselesaikan" : " https://registry.npmjs.org/balanced-match/-/balanced-match-1.0.2.tgz " ,
+        "integritas" : " sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw== "
+      },
+      "node_modules/bcrypt-pbkdf" : {
+        "versi" : " 1.0.2 " ,
+        "diselesaikan" : " https://registry.npmjs.org/bcrypt-pbkdf/-/bcrypt-pbkdf-1.0.2.tgz " ,
+        "integritas" : " sha1-pDAdOJtqQ/m2f/PKEaP2Y342Dp4= " ,
+        "ketergantungan" : {
+          "tweetnacl" : " ^0.14.3 "
+        }
+      },
+      "node_modules/binary-extensions" : {
+        "versi" : " 2.2.0 " ,
+        "diselesaikan" : " https://registry.npmjs.org/binary-extensions/-/binary-extensions-2.2.0.tgz " ,
+        "integritas" : " sha512-jDctJ/IVQbZoJykoeHbhXpOlNBqGNcwXJKJog42E5HDPUwQTSdjCHdihjj0DlnheQ7blbT6dHOafNAiS8ooQKA== " ,
+        "mesin" : {
+          "simpul" : " >=8 "
+        }
+      },
+      "node_modules/body-parser" : {
+        "versi" : " 1.19.1 " ,
+        "diselesaikan" : " https://registry.npmjs.org/body-parser/-/body-parser-1.19.1.tgz " ,
+        "integritas" : " sha512-8ljfQi5eBk8EJfECMrgqNGWPEY5jWP+1IzkzkGdFFEwFQZZyaZ21UqdaHktgiMlH0xLHqIFtE/u2OYE5dOtViA== " ,
+        "ketergantungan" : {
+          "byte" : " 3.1.1 " ,
+          "tipe-konten" : " ~1.0.4 " ,
+          "debug" : " 2.6.9 " ,
+          "depd" : " ~1.1.2 " ,
+          "http-errors" : " 1.8.1 " ,
+          "iconv-lite" : " 0.4.24 " ,
+          "selesai" : " ~2.3.0 " ,
+          "qs" : " 6.9.6 " ,
+          "raw-body" : " 2.4.2 " ,
+          "type-is" : " ~1.6.18 "
+        },
+        "mesin" : {
+          "simpul" : " >= 0.8 "
+        }
+      },
+      "node_modules/boxen" : {
+        "versi" : " 5.1.2 " ,
+        "diselesaikan" : " https://registry.npmjs.org/boxen/-/boxen-5.1.2.tgz " ,
+        "integritas" : " sha512-9gYgQKXx+1nP8mP7CzFyaUARhg7D3n1dF/FnErWmu9l6JvGpNUN278h0aSb+QjoiKSWG+iZ3uHrcqk0qrY9RQQ== " ,
+        "ketergantungan" : {
+          "ansi-align" : " ^3.0.0 " ,
+          "camelcase" : " ^6.2.0 " ,
+          "kapur" : " ^4.1.0 " ,
+          "cli-box" : " ^2.2.1 " ,
+          "string-lebar" : " ^4.2.2 " ,
+          "type-fest" : " ^0.20.2 " ,
+          "garis terlebar" : " ^3.1.0 " ,
+          "wrap-ansi" : " ^7.0.0 "
+        },
+        "mesin" : {
+          "simpul" : " >=10 "
+        },
+        "dana" : {
+          "url" : " https://github.com/sponsors/sindresorhus "
+        }
+      },
+      "node_modules/brace-expansion" : {
+        "versi" : " 1.1.11 " ,
+        "diselesaikan" : " https://registry.npmjs.org/brace-expansion/-/brace-expansion-1.1.11.tgz " ,
+        "integritas" : " sha512-iCuPHDFgrHX7H2vEI/5xpz07zSHB00TpugqhmYtVmMO6518mCuRMoOYFldEBl0g187ufozdaHgWKcYFb61qGiA== " ,
+        "ketergantungan" : {
+          "pertandingan seimbang" : " ^1.0.0 " ,
+          "concat-peta" : " 0.0.1 "
+        }
+      },
+      "node_modules/braces" : {
+        "versi" : " 3.0.2 " ,
+        "diselesaikan" : " https://registry.npmjs.org/braces/-/braces-3.0.2.tgz " ,
+        "integritas" : " sha512-b8um+L1RzM3WDSzvhm6gIz1yfTbBt6YTlcEKAvsmqCZZFw46z626lVj9j1yEPW33H5H+lBQpZMP1k8l+78Ha0A== " ,
+        "ketergantungan" : {
+          "fill-range" : " ^7.0.1 "
+        },
+        "mesin" : {
+          "simpul" : " >=8 "
+        }
+      },
+      "node_modules/byte" : {
+        "versi" : " 3.1.1 " ,
+        "diselesaikan" : " https://registry.npmjs.org/bytes/-/bytes-3.1.1.tgz " ,
+        "integritas" : " sha512-dWe4nWO/ruEOY7HkUJ5gFt1DCFV9zPRoJr8pV0/ASQermOZjtq8jMjOprC0Kd10GLN+l7xaUPvxzJFWtxGu8Fg== " ,
+        "mesin" : {
+          "simpul" : " >= 0.8 "
+        }
+      },
+      "node_modules/cacheable-request" : {
+        "versi" : " 6.1.0 " ,
+        "diselesaikan" : " https://registry.npmjs.org/cacheable-request/-/cacheable-request-6.1.0.tgz " ,
+        "integritas" : " sha512-Oj3cAGPCqOZX7Rz64Uny2GYAZNliQSqfbePrgAQ1wKAihYmCUnraBtJtKcGR4xz7wF+LoJC+ssFZvv5BgF9Igg== " ,
+        "ketergantungan" : {
+          "clone-response" : " ^1.0.2 " ,
+          "get-stream" : " ^5.1.0 " ,
+          "http-cache-semantics" : " ^4.0.0 " ,
+          "keyv" : " ^3.0.0 " ,
+          "huruf kecil-kunci" : " ^2.0.0 " ,
+          "normalisasi-url" : " ^4.1.0 " ,
+          "responselike" : " ^1.0.2 "
+        },
+        "mesin" : {
+          "simpul" : " >=8 "
+        }
+      },
+      "node_modules/cacheable-request/node_modules/get-stream" : {
+        "versi" : " 5.2.0 " ,
+        "diselesaikan" : " https://registry.npmjs.org/get-stream/-/get-stream-5.2.0.tgz " ,
+        "integritas" : " sha512-nBF+F1rAZVCu/p7rjzgA+Yb4lfYXrpl7a6VmJrU8wF9I1CKvP/QwPNZHnOlwbTkY6dvtFIzFMSyQXbLoTQPRpA== " ,
+        "ketergantungan" : {
+          "pompa" : " ^3.0.0 "
+        },
+        "mesin" : {
+          "simpul" : " >=8 "
+        },
+        "dana" : {
+          "url" : " https://github.com/sponsors/sindresorhus "
+        }
+      },
+      "node_modules/cacheable-request/node_modules/huruf kecil-kunci" : {
+        "versi" : " 2.0.0 " ,
+        "diselesaikan" : " https://registry.npmjs.org/lowercase-keys/-/lowercase-keys-2.0.0.tgz " ,
+        "integritas" : " sha512-tqNXrS78oMOE73NMxK4EMLQsQowWf8jKooH9g7xPavRT706R6bkQJ6DY2Te7QukaZsulxa30wQ7bk0pm4XiHmA== " ,
+        "mesin" : {
+          "simpul" : " >=8 "
+        }
+      },
+      "node_modules/camelcase" : {
+        "versi" : " 6.3.0 " ,
+        "diselesaikan" : " https://registry.npmjs.org/camelcase/-/camelcase-6.3.0.tgz " ,
+        "integritas" : " sha512-Gmy6FhYlCY7uOElZUSbxo2UCDH8owEk996gkbrpsgGtrJLM3J7jGxl9Ic7Qwwj4ivOE5AWZWRMecDdF7hqGjFA== " ,
+        "mesin" : {
+          "simpul" : " >=10 "
+        },
+        "dana" : {
+          "url" : " https://github.com/sponsors/sindresorhus "
+        }
+      },
+      "node_modules/caseless" : {
+        "versi" : " 0.12.0 " ,
+        "diselesaikan" : " https://registry.npmjs.org/caseless/-/caseless-0.12.0.tgz " ,
+        "integritas" : " sha1-G2gcIf+EAzyCZUMJBolCDRhxUdw= "
+      },
+      "simpul_modul/kapur" : {
+        "versi" : " 4.1.2 " ,
+        "diselesaikan" : " https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz " ,
+        "integritas" : " sha512-oKnbhFyRIXpUuez8iBMmyEa4nbj4IOQyuhc/wy9kY7/WVPcwIO9VA668Pu8RkO7+0G76SLROeyw9CpQ061i4mA== " ,
+        "ketergantungan" : {
+          "ansi-styles" : " ^4.1.0 " ,
+          "supports-color" : " ^7.1.0 "
+        },
+        "mesin" : {
+          "simpul" : " >=10 "
+        },
+        "dana" : {
+          "url" : " https://github.com/chalk/chalk?sponsor=1 "
+        }
+      },
+      "node_modules/chalk/node_modules/has-flag" : {
+        "versi" : " 4.0.0 " ,
+        "diselesaikan" : " https://registry.npmjs.org/has-flag/-/has-flag-4.0.0.tgz " ,
+        "integritas" : " sha512-EykJT/Q1KjTWctppgIAgfSO0tKVuZUjhgMr17kqTumMl6Afv3EISleU7qZUzoXDFTAHTDC4NOoG/ZxU3EvlMPQ== " ,
+        "mesin" : {
+          "simpul" : " >=8 "
+        }
+      },
+      "node_modules/chalk/node_modules/supports-color" : {
+        "versi" : " 7.2.0 " ,
+        "diselesaikan" : " https://registry.npmjs.org/supports-color/-/supports-color-7.2.0.tgz " ,
+        "integritas" : " sha512-qpCAvRl9stuOHveKsn7HncJRvv501qIacKzQlO/+Lwxc9+0q2wLyv4Dfvt80/DPn2pqOBsJdDiogXGR9+OvwRw== " ,
+        "ketergantungan" : {
+          "memiliki-bendera" : " ^4.0.0 "
+        },
+        "mesin" : {
+          "simpul" : " >=8 "
+        }
+      },
+      "node_modules/chokidar" : {
+        "versi" : " 3.5.2 " ,
+        "selesai" : " https://registry.npmjs.org/chokidar/-/chokidar-3.5.2.tgz " ,
+        "integritas" : " sha512-ekGhOnNVPgT77r4K/U3GDhu+FQ2S8TnK/s2KbIGXi0SZWuwkZ2QNyfWdZW+TVfn84DpEP7rLeCt2UI6bJ8GwbQ== " ,
+        "ketergantungan" : {
+          "anymatch" : " ~3.1.2 " ,
+          "kawat gigi" : " ~3.0.2 " ,
+          "glob-parent" : " ~5.1.2 " ,
+          "is-biner-path" : " ~2.1.0 " ,
+          "is-glob" : " ~4.0.1 " ,
+          "normalisasi-jalur" : " ~3.0.0 " ,
+          "readdirp" : " ~3.6.0 "
+        },
+        "mesin" : {
+          "simpul" : " >= 8.10.0 "
+        },
+        "opsionalKetergantungan" : {
+          "fsevents" : " ~2.3.2 "
+        }
+      },
+      "node_modules/ci-info" : {
+        "versi" : " 2.0.0 " ,
+        "diselesaikan" : " https://registry.npmjs.org/ci-info/-/ci-info-2.0.0.tgz " ,
+        "integritas" : " sha512-5tK7EtrZ0N+OLFMthtqOj4fI2Jeb88C4CAZPu25LDVUgXJ0A3Js4PMGqrn0JU1W0Mh1/Z8wZzYPxqUrXeBboCQ== "
+      },
+      "node_modules/cli-box" : {
+        "versi" : " 2.2.1 " ,
+        "diselesaikan" : " https://registry.npmjs.org/cli-boxes/-/cli-boxes-2.2.1.tgz " ,
+        "integritas" : " sha512-y4coMcylgSCdVinjiDBuR8PCC2bLjyGTwEmPb9NHR/QaNU6EUOXcTY/s6VjGMD6ENSEaeQYHCY0GNGS5jfMwPw== " ,
+        "mesin" : {
+          "simpul" : " >=6 "
+        },
+        "dana" : {
+          "url" : " https://github.com/sponsors/sindresorhus "
+        }
+      },
+      "node_modules/clone-response" : {
+        "versi" : " 1.0.2 " ,
+        "diselesaikan" : " https://registry.npmjs.org/clone-response/-/clone-response-1.0.2.tgz " ,
+        "integritas" : " sha1-0dyXOSAxTfZ/vrlCI7TuNQI56Ws= " ,
+        "ketergantungan" : {
+          "mimic-response" : " ^1.0.0 "
+        }
+      },
+      "node_modules/konversi warna" : {
+        "versi" : " 2.0.1 " ,
+        "diselesaikan" : " https://registry.npmjs.org/color-convert/-/color-convert-2.0.1.tgz " ,
+        "integritas" : " sha512-RRECpsj7iu/xb5oKYcsFHSppFNnsj/52OVTRKb4zP5onXwVF3zVmmToNcOfGC+CRDpfK/U584fMg38ZHCaElKQ== " ,
+        "ketergantungan" : {
+          "nama-warna" : " ~1.1.4 "
+        },
+        "mesin" : {
+          "simpul" : " >=7.0.0 "
+        }
+      },
+      "node_modules/nama-warna" : {
+        "versi" : " 1.1.4 " ,
+        "diselesaikan" : " https://registry.npmjs.org/color-name/-/color-name-1.1.4.tgz " ,
+        "integritas" : " sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA== "
+      },
+      "node_modules/aliran gabungan" : {
+        "versi" : " 1.0.8 " ,
+        "diselesaikan" : " https://registry.npmjs.org/combined-stream/-/combined-stream-1.0.8.tgz " ,
+        "integritas" : " sha512-FQN4MRfuJeHf7cBbBMJFXhKSDq+2kAArBlmRBvcvFE5BB1HZKXtSFAShdlz9zOYwxh8lDdnvmMOe/+5cdoEdg== " ,
+        "ketergantungan" : {
+          "delayed-stream" : " ~1.0.0 "
+        },
+        "mesin" : {
+          "simpul" : " >= 0.8 "
+        }
+      },
+      "node_modules/concat-map" : {
+        "versi" : " 0.0.1 " ,
+        "diselesaikan" : " https://registry.npmjs.org/concat-map/-/concat-map-0.0.1.tgz " ,
+        "integritas" : " sha1-2Klr13/Wjfd5OnMDajug1UBdR3s= "
+      },
+      "node_modules/configstore" : {
+        "versi" : " 5.0.1 " ,
+        "diselesaikan" : " https://registry.npmjs.org/configstore/-/configstore-5.0.1.tgz " ,
+        "integritas" : " sha512-aMKprgk5YhBNyH25hj8wGt2+D52Sw1DRRIzqBwLp2Ya9mFmY8KPvvtvmna8SxVR9JMZ4kzMD68N22vlaRpkeFA== " ,
+        "ketergantungan" : {
+          "dot-prop" : " ^5.2.0 " ,
+          "graceful-fs" : " ^4.1.2 " ,
+          "make-dir" : " ^3.0.0 " ,
+          "unik-string" : " ^2.0.0 " ,
+          "write-file-atomic" : " ^3.0.0 " ,
+          "xdg-basedir" : " ^4.0.0 "
+        },
+        "mesin" : {
+          "simpul" : " >=8 "
+        }
+      },
+      "node_modules/konten-disposisi" : {
+        "versi" : " 0.5.4 " ,
+        "diselesaikan" : " https://registry.npmjs.org/content-disposition/-/content-disposition-0.5.4.tgz " ,
+        "integritas" : " sha512-FveZTNuGw04cxlAiWbzi6zTAL/lhehaWbTtgluJh4/E95DqMwTmha3KZN1aAWA8cFIhHzMZUvLevkw5Rqk+tSQ== " ,
+        "ketergantungan" : {
+          "penyangga aman" : " 5.2.1 "
+        },
+        "mesin" : {
+          "simpul" : " >= 0,6 "
+        }
+      },
+      "node_modules/content-type" : {
+        "versi" : " 1.0.4 " ,
+        "diselesaikan" : " https://registry.npmjs.org/content-type/-/content-type-1.0.4.tgz " ,
+        "integritas" : " sha512-hIP3EEPs8tB9AT1L+NUqtwOAps4mk2Zob89MWXMHjHWg9milF/j4osnnQLXBCBFBk/tvIG/tUc9mOUJiPBhPXA== " ,
+        "mesin" : {
+          "simpul" : " >= 0,6 "
+        }
+      },
+      "node_modules/cookie" : {
+        "versi" : " 0.4.1 " ,
+        "diselesaikan" : " https://registry.npmjs.org/cookie/-/cookie-0.4.1.tgz " ,
+        "integritas" : " sha512-ZwrFkGJxUR3EIoXtO+yVE69Eb7KlixbaeAWfBQB9vVsNn/o+Yw69gBWSSDK825hQNdN+wF8zELf3dFNl/kxkUA== " ,
+        "mesin" : {
+          "simpul" : " >= 0,6 "
+        }
+      },
+      "node_modules/cookie-signature" : {
+        "versi" : " 1.0.6 " ,
+        "diselesaikan" : " https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.6.tgz " ,
+        "integritas" : " sha1-4wOogrNCzD7oylE6eZmXNNqzriw= "
+      },
+      "node_modules/core-util-is" : {
+        "versi" : " 1.0.2 " ,
+        "diselesaikan" : " https://registry.npmjs.org/core-util-is/-/core-util-is-1.0.2.tgz " ,
+        "integritas" : " sha1-tf1UIgqivFq1eqtxQMlAdUUDwac= "
+      },
+      "node_modules/crypto-random-string" : {
+        "versi" : " 2.0.0 " ,
+        "diselesaikan" : " https://registry.npmjs.org/crypto-random-string/-/crypto-random-string-2.0.0.tgz " ,
+        "integritas" : " sha512-v1plID3y9r/lPhviJ1wrXpLeyUIGAZ2SHNYTEapm7/8A9nLPoyvVp3RK/EPFqn5kEznyWgYZNsRtYYIWbuG8KA== " ,
+        "mesin" : {
+          "simpul" : " >=8 "
+        }
+      },
+      "node_modules/dasbor" : {
+        "versi" : " 1.14.1 " ,
+        "diselesaikan" : " https://registry.npmjs.org/dashdash/-/dashdash-1.14.1.tgz " ,
+        "integritas"   

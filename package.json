@@ -1,0 +1,19 @@
+{
+    "name" : " rest-harper " ,
+    "versi" : " 1.0.0 " ,
+    "deskripsi" : " " ,
+    "main" : " index.js " ,
+    "skrip" : {
+      "mulai" : " nodemon index.js "
+    },
+    "kata kunci" : [],
+    "penulis" : " " ,
+    "lisensi" : " ISC " ,
+    "ketergantungan" : {
+      "kors" : " ^2.8.5 " ,
+      "dotenv" : " ^10.0.0 " ,
+      "ekspres" : " ^4.17.1 " ,
+      "harperive" : " ^2.0.1 " ,
+      "simpul" : " ^2.0.13 "
+    }
+  }
